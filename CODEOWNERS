@@ -1,0 +1,4 @@
+* @dev-team
+*.html @front-end
+*.jpg *.png @marketing
+*.github @gh-ops-team
